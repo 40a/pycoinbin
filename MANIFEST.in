@@ -1,0 +1,4 @@
+include tests/all_currencies.json
+include tests/bitcoin_hist.json
+include README.md
+include LICENSE.txt
